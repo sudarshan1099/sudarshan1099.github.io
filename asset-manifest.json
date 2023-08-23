@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sudarshanmane.github.io/ReactPortfolio/home/static/css/main.ddf9c24e.css",
-    "main.js": "/sudarshanmane.github.io/ReactPortfolio/home/static/js/main.0136aa3f.js",
+    "main.js": "/sudarshanmane.github.io/ReactPortfolio/home/static/js/main.f6b37c31.js",
     "static/js/787.1ed0c42c.chunk.js": "/sudarshanmane.github.io/ReactPortfolio/home/static/js/787.1ed0c42c.chunk.js",
     "static/media/animation1.gif": "/sudarshanmane.github.io/ReactPortfolio/home/static/media/animation1.9cd39544406898c058e5.gif",
     "static/media/Logo.png": "/sudarshanmane.github.io/ReactPortfolio/home/static/media/Logo.2bfd4a9d83b108df9b26.png",
@@ -10,11 +10,11 @@
     "static/media/revicons.woff": "/sudarshanmane.github.io/ReactPortfolio/home/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/sudarshanmane.github.io/ReactPortfolio/home/index.html",
     "main.ddf9c24e.css.map": "/sudarshanmane.github.io/ReactPortfolio/home/static/css/main.ddf9c24e.css.map",
-    "main.0136aa3f.js.map": "/sudarshanmane.github.io/ReactPortfolio/home/static/js/main.0136aa3f.js.map",
+    "main.f6b37c31.js.map": "/sudarshanmane.github.io/ReactPortfolio/home/static/js/main.f6b37c31.js.map",
     "787.1ed0c42c.chunk.js.map": "/sudarshanmane.github.io/ReactPortfolio/home/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddf9c24e.css",
-    "static/js/main.0136aa3f.js"
+    "static/js/main.f6b37c31.js"
   ]
 }
